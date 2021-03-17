@@ -28,5 +28,5 @@ View [read_2_random_sen.py](Chinese%20Example%20Sentences/read_2_random_sen.py)
 4. Use [gen_sen.py](Chinese%20Example%20Sentences/gen_sen.py) and write data to ```.tsv``` file 
 5. Use [tsv_to_db.py](Chinese%20Example%20Sentences/tsv_to_db.py) python code to create databases.
 
-## Creating tsv and db files with translation for other language
+## View this to create tsv and db files with translation for other language
 [Simple 中文](https://simplezhongwen.blogspot.com/2021/03/create-language-database-with.html)
