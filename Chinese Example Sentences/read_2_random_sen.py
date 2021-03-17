@@ -18,4 +18,6 @@ def get_sentence():
 
     print(r1)
     print(r2)
+
+# Uncomment it
 # get_sentence()
