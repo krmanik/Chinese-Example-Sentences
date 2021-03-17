@@ -2,6 +2,8 @@
 Chinese sentences with simplified, traditional, pinyin and english translation for offline use in app.
 Sentences data taken from [Tatoeba](https://tatoeba.org/eng/downloads), pinyin and traditional characters generated using python module ```pinyin_jyutping_sentence``` and ```hanziconv```. Translation generated using google translate python module.
 
+Total 63352 sentences in db and tsv file.
+
 ## Downloads
 ### TSV file
 This is tab separated file.
