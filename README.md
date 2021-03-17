@@ -1,12 +1,13 @@
 # Chinese-Example-Sentences
-Chinese sentences from [Tatoeba](https://tatoeba.org/eng/downloads) with simplified, traditional, pinyin and english translation for offline use in app.
+Chinese sentences with simplified, traditional, pinyin and english translation for offline use in app.
+Sentences data taken from [Tatoeba](https://tatoeba.org/eng/downloads), pinyin and traditional characters generated using python module ```pinyin_jyutping_sentence``` and ```hanziconv```. Translation generated using google translate python module.
 
 ## Downloads
 ### TSV file
 This is tab separated file.
 - [Chinese Sentences with pinyin and translation](Chinese%20Example%20Sentences/cmn_sen_db_2.tsv)
 
-**| id | Simplified | Traditional | Pinyin | English |**
+| id | Simplified | Traditional | Pinyin | English |
 ```
 10	我不知道。	我不知道。	wǒ bù zhīdào 。	I do not know.
 ```
